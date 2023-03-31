@@ -1,6 +1,7 @@
 # Kodlama-io-WEEK4-HW1
 
 Python’da Decorator Ne İşe Yarar?
+
 Python ortamında decorator tanımlamak için örnek kod. Amaç, fonksiyon tanımlayan fonksiyon oluşturmak ve daha sonra bu fonksiyonu her çağırdığımızda bir değişkene yeni fonksiyon tanımlamış olmak. Burada, kullanıcının kendi fonksiyonunu tanımlaması dahi mümkün hale geliyor. exec ile(evet, biraz riskli bir fonksiyon) kullanıcıdan aldığımız bir fonksiyonu bu şekilde örneklemek mümkün. Tek fonksiyon için çok geremese de artan sayılara cevap verecek nitelikte. Daha önce Flask framworkünde decoratorlere rastlamıştım ama şimdi anlamak nasip oldu. Bu kodun daha ilkel bir haline dökümantasyonun en başındaki tutorial kısmında rastlamıştım. Bir de @ ile bir kullanımı var. Etkin kullandığımda onun örnek programını da eklemeyi düşünüyorum. Umarım işinize yarar.
 
 
